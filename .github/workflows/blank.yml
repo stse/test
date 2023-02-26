@@ -28,5 +28,3 @@ jobs:
       - name: Gradle Build Action
         # Build repository
         uses: gradle/gradle-build-action@v2.4.0
-        with:
-          arguments: build
